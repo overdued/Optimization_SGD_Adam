@@ -1,1 +1,3 @@
 # Optimization_SGD_Adam
+# This research aims to explore the reliability and performance of the Adam and SGD optimizers in fine-tuning lightweight neural networks. By evaluating the effectiveness of both optimizers on five different flower image datasets when training a lightweight ResNet18 model, we hope to identify a more suitable optimizer that can significantly enhance the accuracy of fine-tuned models in similar lightweight neural network applications. Our results highlight that, using the same initial learning rate and employing cosine annealing for the learning rate adjustment, the accuracy improvement observed with the SGD optimizer substantially exceeds that of the Adam optimizer.
+
